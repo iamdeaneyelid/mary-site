@@ -20,7 +20,6 @@ export default function Home() {
 
         <div className="info-container">
           <a href="mailto:info@marygrigoris.com">info@marygrigoris.com</a>
-          <a href="tel:+33787553500">+33 7 87 55 35 00</a>
         </div>
 
       </div>
